@@ -4,7 +4,7 @@ This is a mirror of Rob Northen Computing's (RNC) ProPack compression tool, whic
 
 This is the official RNC 2.14 package, containing a packer DOS binary and assembly decoding modules for several platforms.
 
-For the manual, read `PROPACK.DOC`.
+For the manual, read `PROPACK.DOC`. I have also added a plain text version of the manual, `PROPACK.TXT`.
 
 ## Mirrors
 
@@ -26,6 +26,7 @@ LIST                       - text file with list of package files
 PPIBM.EXE                  - file packer (286 version)
 PPAMI.EXE                  - file packer (amiga version)
 PROPACK.DOC                - PRO-PACK manual (referred to as PP.DOC in LIST)
+PROPACK.TXT                - Plain text version of PRO-PACK manual (not part of original archive)
 SOURCE (dir)               - Assembler unpack source files
     IBMPC (dir)
         RNC_1.ASM          - 8086 Method 1
